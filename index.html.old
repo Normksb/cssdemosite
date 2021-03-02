@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New Landing Page</title>
+        <link rel="stylesheet" href="./css/style.css">
+    </head>
+
+    <body>
+        <header>
+            <nav>
+                <a href="https://www.github.com" class="toplinks">github</a>
+                <a href="https://www.google.com" class="toplinks">google</a>
+                <a href="https://www.google.com" class="toplinks">contact</a>
+            </nav>
+        </header>
+
+        <section>
+            <div>
+                <h1>Customer Details Form</h1>
+            </div>
+            <div>
+                <img src="comingsoon.jpg" alt="coming soon">
+            </div>
+            <div class="container">
+                <form>
+              
+                  <label for="fname">First Name</label>
+                  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              
+                  <label for="lname">Last Name</label>
+                  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                
+            
+                  <input type="submit" value="Submit">
+              
+                </form>
+              </div>
+        </section>
+        <footer>
+            <div>
+                <h2>My New Website</h2>
+            </div>
+        </footer>
+        
+    </body>
+
+
+
+
+</html>

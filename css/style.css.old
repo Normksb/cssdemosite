@@ -1,0 +1,43 @@
+h1 {
+    font: arial;
+}
+
+h2 {
+    font: arial;
+}
+
+.toplinks {
+    float: right;
+    display: inline;
+    padding: 10px;
+    font: arial;
+  }
+
+.container {
+    height: 100px;
+    float: center;
+}
+
+section {
+    float: center;
+    display: block;
+    margin-top: 20px;
+}
+
+div {
+    float: center;
+    display: block;
+    padding: 20px;
+    margin: auto;
+    width: 60%;
+}
+
+label {
+    display: block;
+    float: center;
+}
+
+input {
+    display: block;
+    float: center;
+}

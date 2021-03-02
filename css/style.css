@@ -1,0 +1,69 @@
+header {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    border-bottom: 10px solid burlywood;
+}
+
+section {
+    width: 60%;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+    line-height: 50px;
+}
+
+ul {
+    text-align: right;
+    display:inline;
+  }
+
+  li {
+    float: right;
+    list-style-type: none;
+    text-align: right;
+    display:inline;
+    padding: 10px;
+  }
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h2 {
+    text-align: center;
+    line-height: 50px;
+}
+
+form {
+    border: 4px solid burlywood;
+  }
+
+.container {
+    padding: 20px;
+    background-color: burlywood;
+  }
+  
+input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+input[type=submit]:hover {
+    opacity: 0.8;
+  }
